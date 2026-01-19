@@ -1,0 +1,16 @@
+{
+  "projectName": "Web_Security_MIME_Type",
+  "category": "Web Security",
+  "author": "Arda İsmailoğlu",
+  "version": "1.0",
+  "description": "Dosya yuklemelerinde sahte uzantilari engelleyen guvenlik araci.",
+  "features": [
+    "Magic Byte Analizi",
+    "Otomatik Sistem Testi",
+    "Fake Uzanti Tespiti"
+  ],
+  "requirements": {
+    "os": "Windows/Linux",
+    "language": "Python"
+  }
+}

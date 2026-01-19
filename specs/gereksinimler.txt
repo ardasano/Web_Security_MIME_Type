@@ -1,0 +1,4 @@
+Python 3.x
+Flask Framework
+python-magic-bin (Windows icin header okuma kutuphanesi)
+HTML5 / CSS3 (Arayuz icin)
