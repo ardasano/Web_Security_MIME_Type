@@ -1,0 +1,1 @@
+Geliştirdiğim 'Magic Byte' tabanlı dosya yükleme güvenlik sistemini test etmek istiyorum. Sistemin çalıştığını kanıtlamak için hangi test senaryolarını uygulamalıyım? Bana 'Valid' (Geçerli) ve 'Invalid' (Geçersiz/Bypass) test adımlarını listeler misin?

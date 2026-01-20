@@ -1,0 +1,1 @@
+Bir siber güvenlik projesi için HTML dosya yükleme sayfası tasarla. Arka planı 'vibrant colors' (canlı renkler, örneğin yeşil-mavi gradient) olsun. Ortada beyaz şık bir kart (card) yapısı olsun. Kullanıcıya 'BAŞARILI' (yeşil) veya 'ENGELLENDİ' (kırmızı) mesajlarını gösterebilecek bir CSS yapısı ekle.

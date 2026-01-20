@@ -1,0 +1,1 @@
+Windows için bir .bat otomasyon scripti yaz. Bu script önce pip install flask python-magic-bin komutuyla kütüphaneleri kursun. Sonra python app.py komutuyla projeyi başlatsın. Kullanıcıya 'Sistem başlatılıyor' gibi echo mesajları göstersin. Title "Web_Security_MIME_Type" olsun
